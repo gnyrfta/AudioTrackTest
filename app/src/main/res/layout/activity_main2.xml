@@ -18,73 +18,73 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/text"
-        android:text="Sound 6"
+        android:text="Beat 1"
         android:id="@+id/buttonOne"/>
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_toRightOf="@id/buttonOne"
         android:layout_alignBaseline="@id/buttonOne"
-        android:text="Sound 10"
+        android:text="Epic Brass"
         android:id="@+id/buttonTen"/>
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/buttonOne"
-        android:text="Sound 7"
+        android:text="Beat 3"
         android:id="@+id/buttonTwo"/>
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_toRightOf="@id/buttonTwo"
         android:layout_alignBaseline="@id/buttonTwo"
-        android:text="Sound 11"
+        android:text="Lead 1"
         android:id="@+id/buttonEleven"/>
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/buttonTwo"
-        android:text="Sound 8"
+        android:text="Hi hat"
         android:id="@+id/buttonThree"/>
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/buttonThree"
-        android:text="Sound 9"
+        android:text="Sub bass 1"
         android:id="@+id/buttonFour"/>
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/buttonFour"
-        android:text="Sound 1"
+        android:text="Sub bass 2"
         android:id="@+id/buttonFive"
         />
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/buttonFive"
-        android:text="Sound 2"
+        android:text="Synth Bass"
         android:id="@+id/buttonSix"
         />
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/buttonSix"
-        android:text="Sound 3"
+        android:text="Boxy Synth"
         android:id="@+id/buttonSeven"
         />
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/buttonSeven"
-        android:text="Sound 4"
+        android:text="Bright Strings"
         android:id="@+id/buttonEight"
         />
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/buttonEight"
-        android:text="Sound 5"
+        android:text="Chords"
         android:id="@+id/buttonNine"
         />
 
